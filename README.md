@@ -1,5 +1,9 @@
 # Prime:1 ~Vulnhub Writeup
-Vulnhub writeup for OSCP Exam based machine. This machine designed by suraj pandey.
+Vulnhub writeup for OSCP Exam based machine. 
+
+Author: suraj pandey.
+
+Download link: https://download.vulnhub.com/prime/Prime_Series_Level-1.rar
 
 Find IP of target machine using nmap command - **nmap -sn 192.168.122.0/24**
 
