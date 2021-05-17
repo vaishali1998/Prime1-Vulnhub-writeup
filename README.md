@@ -1,7 +1,7 @@
 # Prime:1 ~Vulnhub Writeup
 Vulnhub writeup for OSCP Exam based machine. 
 
-Author: suraj pandey.
+Author: Suraj
 
 Download link: https://download.vulnhub.com/prime/Prime_Series_Level-1.rar
 
