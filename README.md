@@ -1,4 +1,4 @@
-# Prime:1 ~Vulnhub Writeup
+# Prime:1 ~Vulnhub Walkthrough
 Vulnhub writeup for OSCP Exam based machine. 
 
 Author: Suraj
